@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>arcanistMageMark</defName>
+		<label>Arcane Mage Mark</label>
+		<description>Descripción Cualquiera</description>
+		<icon>PawnBadge/arcanistMageMark.png</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<!-- <RR_PawnBadge.BadgeDef>
+		<defName></defName>
+		<label></label>
+		<description></description>
+		<icon>PawnBadge/.png</icon>
+	</RR_PawnBadge.BadgeDef> -->
+
+</Defs>	
