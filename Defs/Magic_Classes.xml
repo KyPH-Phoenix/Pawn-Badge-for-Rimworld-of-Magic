@@ -1,18 +1,166 @@
 <?xml version="1.0" encoding="utf-8" ?>
+
 <Defs>
 
 	<RR_PawnBadge.BadgeDef>
 		<defName>arcanistMageMark</defName>
 		<label>Arcane Mage Mark</label>
-		<description>Descripción Cualquiera</description>
-		<icon>PawnBadge/arcanistMageMark.png</icon>
+		<description>Arcane Mage Mark</description>
+		<icon>PawnBadge/MagicClasses/arcanistMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+	
+	<RR_PawnBadge.BadgeDef>
+		<defName>fireMageMark</defName>
+		<label>Fire Mage Mark</label>
+		<description>Fire Mage Mark</description>
+		<icon>PawnBadge/MagicClasses/fireMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+	
+	<RR_PawnBadge.BadgeDef>
+		<defName>lightningMageMark</defName>
+		<label>Lightning Mage Mark</label>
+		<description>Lightning Mage Mark</description>
+		<icon>PawnBadge/MagicClasses/lightningMageMark</icon>
 	</RR_PawnBadge.BadgeDef>
 
-	<!-- <RR_PawnBadge.BadgeDef>
-		<defName></defName>
-		<label></label>
-		<description></description>
-		<icon>PawnBadge/.png</icon>
-	</RR_PawnBadge.BadgeDef> -->
+	<RR_PawnBadge.BadgeDef>
+		<defName>iceMageMark</defName>
+		<label>Ice Mage Mark</label>
+		<description>Ice Mage Mark</description>
+		<icon>PawnBadge/MagicClasses/iceMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+	
+	<RR_PawnBadge.BadgeDef>
+		<defName>druidMageMark</defName>
+		<label>Druid Mark</label>
+		<description>Druid Mark</description>
+		<icon>PawnBadge/MagicClasses/druidMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+	
+	<RR_PawnBadge.BadgeDef>
+		<defName>paladinMageMark</defName>
+		<label>Paladin Mark</label>
+		<description>Paladin Mark</description>
+		<icon>PawnBadge/MagicClasses/paladinMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+	
+	<RR_PawnBadge.BadgeDef>
+		<defName>priestMageMark</defName>
+		<label>Priest Mark</label>
+		<description>Priest Mark</description>
+		<icon>PawnBadge/MagicClasses/priestMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+	
+	<RR_PawnBadge.BadgeDef>
+		<defName>necroMageMark</defName>
+		<label>Necromancer Mark</label>
+		<description>Necromancer Mark</description>
+		<icon>PawnBadge/MagicClasses/necroMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+	
+	<RR_PawnBadge.BadgeDef>
+		<defName>shadowFlame</defName>
+		<label>Shadow Mark</label>
+		<description>Shadow Mark</description>
+		<icon>PawnBadge/MagicClasses/shadowFlame</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>summonerMageMark</defName>
+		<label>Summoner Mark</label>
+		<description>Summoner Mark</description>
+		<icon>PawnBadge/MagicClasses/summonerMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>demonMageMark</defName>
+		<label>Warlock/Succubus Mark</label>
+		<description>Warlock/Succubus Mark</description>
+		<icon>PawnBadge/MagicClasses/demonMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>bardMageMark</defName>
+		<label>Bard Mark</label>
+		<description>Bard Mark</description>
+		<icon>PawnBadge/MagicClasses/bardMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>bloodMageMark</defName>
+		<label>Blood Mage Mark</label>
+		<description>Blood Mage Mark</description>
+		<icon>PawnBadge/MagicClasses/bloodMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>earthMageMark</defName>
+		<label>Geomancer Mark</label>
+		<description>Geomancer Mark</description>
+		<icon>PawnBadge/MagicClasses/earthMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>chronomancerMageMark</defName>
+		<label>Chronomancer Mark</label>
+		<description>Chronomancer Mark</description>
+		<icon>PawnBadge/MagicClasses/chronomancerMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>technoMageMark</defName>
+		<label>Technomancer Mark</label>
+		<description>Technomancer Mark</description>
+		<icon>PawnBadge/MagicClasses/technoMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>enchanterMageMark</defName>
+		<label>Enchanter Mark</label>
+		<description>Enchanter Mark</description>
+		<icon>PawnBadge/MagicClasses/MageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>chaosMageMark</defName>
+		<label>Chaos Mage Mark</label>
+		<description>Chaos Mage Mark</description>
+		<icon>PawnBadge/MagicClasses/chaosMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>brightMageMark</defName>
+		<label>Bright Mage Mark</label>
+		<description>Bright Mage Mark</description>
+		<icon>PawnBadge/MagicClasses/brightMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>shamanMageMark</defName>
+		<label>Shaman Mark</label>
+		<description>Shaman Mark</description>
+		<icon>PawnBadge/MagicClasses/shamanMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>CustomMageMark</defName>
+		<label>Custom Mage Mark</label>
+		<description>Custom Mage Mark</description>
+		<icon>PawnBadge/MagicClasses/CustomMageMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>wandererFlame</defName>
+		<label>Wandrerer Flame</label>
+		<description>Wanderer Flame</description>
+		<icon>PawnBadge/MagicClasses/wandererFlame</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>wayfarerFlame</defName>
+		<label>Wayfarer Flame</label>
+		<description>Wayfarer Flame</description>
+		<icon>PawnBadge/MagicClasses/wayfarerFlame</icon>
+	</RR_PawnBadge.BadgeDef>
 
 </Defs>	
