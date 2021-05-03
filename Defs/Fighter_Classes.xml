@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>sniperFighterMark</defName>
+		<label>Sniper Mark</label>
+		<description>Sniper Mark</description>
+		<icon>PawnBadge/FighterClasses/sniperFighterMark</icon>
+	</RR_PawnBadge.BadgeDef>
+	
+    <RR_PawnBadge.BadgeDef>
+		<defName>gladiatorFighterMark</defName>
+		<label>Gladiator Mark</label>
+		<description>Gladiator Mark</description>
+		<icon>PawnBadge/FighterClasses/gladiatorFighterMark</icon>
+	</RR_PawnBadge.BadgeDef>
+	
+    <RR_PawnBadge.BadgeDef>
+		<defName>bladedancerFighterMark</defName>
+		<label>Bladedancer Mark</label>
+		<description>Bladedancer Mark</description>
+		<icon>PawnBadge/FighterClasses/bladedancerFighterMark</icon>
+	</RR_PawnBadge.BadgeDef>
+	
+    <RR_PawnBadge.BadgeDef>
+		<defName>facelessFighterMark</defName>
+		<label>Faceless Mark</label>
+		<description>Faceless Mark</description>
+		<icon>PawnBadge/FighterClasses/facelessFighterMark</icon>
+	</RR_PawnBadge.BadgeDef>
+	
+    <RR_PawnBadge.BadgeDef>
+		<defName>psiPsiMark</defName>
+		<label>Psionic Mark</label>
+		<description>Psionic Mark</description>
+		<icon>PawnBadge/FighterClasses/psiPsiMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+    <RR_PawnBadge.BadgeDef>
+		<defName>rangerFighterMark</defName>
+		<label>Ranger Mark</label>
+		<description>Ranger Mark</description>
+		<icon>PawnBadge/FighterClasses/rangerFighterMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+    <RR_PawnBadge.BadgeDef>
+		<defName>deathknigtFighterMark</defName>
+		<label>Death Knight Mark</label>
+		<description>Death Knight Mark</description>
+		<icon>PawnBadge/FighterClasses/deathknightFighterMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+    <RR_PawnBadge.BadgeDef>
+		<defName>monkPsiMark</defName>
+		<label>Monk Mark</label>
+		<description>Monk Mark</description>
+		<icon>PawnBadge/FighterClasses/monkPsiMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+    <RR_PawnBadge.BadgeDef>
+		<defName>supersoldierFighterMark</defName>
+		<label>Supersoldier Mark</label>
+		<description>Supersoldier Mark</description>
+		<icon>PawnBadge/FighterClasses/supersoldierFighterMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+    <RR_PawnBadge.BadgeDef>
+		<defName>CommanderMark</defName>
+		<label>Commander Mark</label>
+		<description>Commander Mark</description>
+		<icon>PawnBadge/FighterClasses/CommanderMark</icon>
+	</RR_PawnBadge.BadgeDef>
+
+    <RR_PawnBadge.BadgeDef>
+		<defName>CustomFighterMark</defName>
+		<label>Custom Fighter Mark</label>
+		<description>Custom Fighter Mark</description>
+		<icon>PawnBadge/FighterClasses/CustomFighterMark</icon>
+	</RR_PawnBadge.BadgeDef>
+	
+
+</Defs>

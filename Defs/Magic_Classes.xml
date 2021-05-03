@@ -118,7 +118,7 @@
 		<defName>enchanterMageMark</defName>
 		<label>Enchanter Mark</label>
 		<description>Enchanter Mark</description>
-		<icon>PawnBadge/MagicClasses/MageMark</icon>
+		<icon>PawnBadge/MagicClasses/enchanterMageMark</icon>
 	</RR_PawnBadge.BadgeDef>
 
 	<RR_PawnBadge.BadgeDef>
@@ -151,15 +151,15 @@
 
 	<RR_PawnBadge.BadgeDef>
 		<defName>wandererFlame</defName>
-		<label>Wandrerer Flame</label>
-		<description>Wanderer Flame</description>
+		<label>Wandrerer Mark</label>
+		<description>Wanderer Mark</description>
 		<icon>PawnBadge/MagicClasses/wandererFlame</icon>
 	</RR_PawnBadge.BadgeDef>
 
 	<RR_PawnBadge.BadgeDef>
 		<defName>wayfarerFlame</defName>
-		<label>Wayfarer Flame</label>
-		<description>Wayfarer Flame</description>
+		<label>Wayfarer Mark</label>
+		<description>Wayfarer Mark</description>
 		<icon>PawnBadge/MagicClasses/wayfarerFlame</icon>
 	</RR_PawnBadge.BadgeDef>
 
